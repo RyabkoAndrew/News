@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <array name="pref_options">
+        <item>@string/pref_choose_top_label_american</item>
+        <item>@string/pref_choose_top_label_russians</item>
+    </array>
+
+    <array name="pref_value">
+        <item>@string/pref_choose_top_value_american</item>
+        <item>@string/pref_choose_top_value_russians</item>
+    </array>
+</resources>

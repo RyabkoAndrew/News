@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="tab_text_1">Top 20</string>
+    <string name="tab_text_2">Search News</string>
+    <string name="tab_text_3">Your News</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string name="world_news">World News</string>
+    <string name="save">SAVE</string>
+    <string name="title">Title</string>
+    <string name="description">description</string>
+    <string name="news_save">News saved</string>
+    <string name="refresh">refresh</string>
+    <string name="search">search</string>
+    <string name="add">add</string>
+    <string name="cancel">cancel</string>
+    <string name="delete">delete</string>
+    <string name="delete_all">Delete All News</string>
+    <string name="delete_news">Delete this news?</string>
+    <string name="delete_all_news">Delete all news?</string>
+    <string name="error_delete">Error with deleting pet</string>
+    <string name="news_deleted">News deleted</string>
+    <string name="all_news_deleted">All news deleted</string>
+    <string name="you_have_not_add">You have not added yet one news item...</string>
+
+
+    <string name="pref_choose_top_title">Choose Top News</string>
+    <string name="pref_choose_top_key" translatable="false">choose news</string>
+
+    <string name="pref_choose_top_label_american">American</string>
+    <string name="pref_choose_top_label_russians">Russians</string>
+
+    <string name="pref_choose_top_value_american" translatable="false">american</string>
+    <string name="pref_choose_top_value_russians" translatable="false">russians</string>
+    <string name="action_setting">Setting</string>
+</resources>
